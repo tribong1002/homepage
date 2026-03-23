@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added CONTRIBUTING.md stub
 - Added .editorconfig for consistent formatting
 - Added type hints to helper functions
+
+## 2026-03-23
+- Updated .gitignore to exclude build artifacts
