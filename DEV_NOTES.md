@@ -20,3 +20,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added CONTRIBUTING.md stub
 - Improved error handling in edge cases
 - Investigated performance bottleneck, noted findings
+
+## 2026-03-30
+- Resolved TODO items from previous session
+- Checked for memory leaks in long-running path
