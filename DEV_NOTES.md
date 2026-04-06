@@ -28,3 +28,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Reviewed security headers configuration
 - Added CONTRIBUTING.md stub
+
+## 2026-04-06
+- Added basic usage examples to README
+- Refactored module structure for clarity
+- Tested build on clean environment
