@@ -33,3 +33,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic usage examples to README
 - Refactored module structure for clarity
 - Tested build on clean environment
+
+## 2026-04-06
+- Improved error handling in edge cases
+- Tidied up project structure
+- Reviewed security headers configuration
