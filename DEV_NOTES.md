@@ -38,3 +38,8 @@ Personal development log — notes, findings, and ongoing work.
 - Improved error handling in edge cases
 - Tidied up project structure
 - Reviewed security headers configuration
+
+## 2026-04-13
+- Resolved deprecation warnings
+- Tested build on clean environment
+- Consolidated duplicate helper functions
